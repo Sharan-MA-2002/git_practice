@@ -12,5 +12,7 @@ class MainActivity : AppCompatActivity() {
 
         println("experimental")
         println("change 2")
+
+        println("changes from friend")
     }
 }
